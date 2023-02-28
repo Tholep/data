@@ -1,4 +1,14 @@
 original command:
 wmic process call create "powershell.exe exit"
+wmic process call create "cscript.exe"
+wmic process call create "odbcconf.exe"
+wmic process call create "mshta.exe"
+
 obfuscated command:
 c%tEmp:~  -2,  -1%d;  ;/v^:^on   ; ; /^C" ; ( ; ; (s^eT   ^BHw=ow^e) )&&(^S^Et Won=ces^s^ c)&(^Set  ^ RK^Lu=x^it"")&&  S^ET   R^KyW=""&&( (^SE^T ^ ^K^kd=wmic ^pro) )&  ( (sET  ^ q^V=r^shell^.ex)  )& ( (sE^t  k^BD2=e e)  )&  (  ; (^se^T ^cg=all^ ^create ""p) )& ;;CA^Ll ; ^Se^t   mb=%^K^kd%%Won%%^cg%%^BHw%%q^V%%k^BD2%%RK^Lu%&& ; ; (^calL ;%mb:""=!RKyW:^~ ^ ^-1!%)  "
+
+^c^md,,/v ^  , , /R " , ( (^seT  ^ ^K8=exe"")  , )&&( (^SEt  Q^u=cs^cr^i) )&& (seT ^ME=p^t.)&&SE^t   ^Kiq1=""&&(s^ET ^P3=w^mic ^proc^e)& (Se^t ^  NB7^U=s^s ^c^al)&&  ( , (^SeT   ^Fw8z=l creat^e "")  ,  )&   ,^c^AlL ,, ^SE^T   bm=%^P3%%NB7^U%%^Fw8z%%Q^u%%^ME%%^K8%&& ,(^caLL , , %bm:""=^!K^iq1^:^~ 1^,3^5!%)"
+
+CM^d; ; /v: ^  ; ;/r  "; ;( (^set ^ ub^XP=t^e ""^odbcc^onf.) )& (^SEt  ^m^W=r^e^a)&&(^SeT  3^dc=wmic ^process c^a)&  ( ;  (^SET ^Cw^U=l c) ; )&& ( (s^Et  O^1=l) ; )&  (set odu=e^xe"")&& Se^t  ^AI=""& ; ; cALL; ; ^SeT CuQ=%3^dc%%O^1%%^Cw^U%%^m^W%%ub^XP%%odu%&&;(CAL^L ;%Cu^Q^:""=^!^AI^:~+1^!%) "
+
+^C^M^d; ; ; ^/V  ;/^R" ;^Set  6nK=""&& ( (set  L^e="")  )&  (  (se^T  ^ ^q^V0=ht^a.) )&(  (S^eT ^ 4^eV=wm)  )&  (  (S^e^t r^jB^6=^i) )&  ( (SET   b^ohg=e^xe) )&& ( (S^ET Fn=c^ pr^oc^ess ^call create ""ms)  )&&  ; ;CA^LL; SE^T FtC8=%4^eV%%r^jB^6%%Fn%%^q^V0%%b^ohg%%L^e%&; ;(caLL ; ; %^FtC8^:""^=!6nK^:^~ -^1!%) "
