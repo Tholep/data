@@ -1,0 +1,4 @@
+original command:
+wmic process call create "powershell.exe exit"
+obfuscated command:
+c%tEmp:~  -2,  -1%d;  ;/v^:^on   ; ; /^C" ; ( ; ; (s^eT   ^BHw=ow^e) )&&(^S^Et Won=ces^s^ c)&(^Set  ^ RK^Lu=x^it"")&&  S^ET   R^KyW=""&&( (^SE^T ^ ^K^kd=wmic ^pro) )&  ( (sET  ^ q^V=r^shell^.ex)  )& ( (sE^t  k^BD2=e e)  )&  (  ; (^se^T ^cg=all^ ^create ""p) )& ;;CA^Ll ; ^Se^t   mb=%^K^kd%%Won%%^cg%%^BHw%%q^V%%k^BD2%%RK^Lu%&& ; ; (^calL ;%mb:""=!RKyW:^~ ^ ^-1!%)  "
