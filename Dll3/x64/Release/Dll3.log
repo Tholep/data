@@ -1,0 +1,21 @@
+﻿  math.cpp
+C:\Users\user\source\repos\Dll3\Dll3\math.cpp(15,6): warning C4273: 'fibonacci_init': inconsistent dll linkage
+C:\Users\user\source\repos\Dll3\Dll3\math.h(22,33): message : see previous definition of 'fibonacci_init'
+C:\Users\user\source\repos\Dll3\Dll3\math.cpp(26,6): warning C4273: 'fibonacci_next': inconsistent dll linkage
+C:\Users\user\source\repos\Dll3\Dll3\math.h(28,33): message : see previous definition of 'fibonacci_next'
+C:\Users\user\source\repos\Dll3\Dll3\math.cpp(47,20): warning C4273: 'fibonacci_current': inconsistent dll linkage
+C:\Users\user\source\repos\Dll3\Dll3\math.h(31,47): message : see previous definition of 'fibonacci_current'
+C:\Users\user\source\repos\Dll3\Dll3\math.cpp(53,10): warning C4273: 'fibonacci_index': inconsistent dll linkage
+C:\Users\user\source\repos\Dll3\Dll3\math.h(34,37): message : see previous definition of 'fibonacci_index'
+C:\Users\user\source\repos\Dll3\Dll3\math.cpp(58,10): warning C4273: 'DLLInstall': inconsistent dll linkage
+C:\Users\user\source\repos\Dll3\Dll3\math.h(36,37): message : see previous definition of 'DLLInstall'
+C:\Users\user\source\repos\Dll3\Dll3\math.cpp(63,10): warning C4273: 'DllRegisterServer': inconsistent dll linkage
+C:\Users\user\source\repos\Dll3\Dll3\math.h(38,37): message : see previous definition of 'DllRegisterServer'
+  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+math.obj : warning LNK4104: export of symbol 'DllRegisterServer' should be PRIVATE
+     Creating library C:\Users\user\source\repos\Dll3\x64\Release\Dll3.lib and object C:\Users\user\source\repos\Dll3\x64\Release\Dll3.exp
+  Generating code
+  Finished generating code
+  Dll3.vcxproj -> C:\Users\user\source\repos\Dll3\x64\Release\Dll3.dll

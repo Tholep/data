@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\createchildprocess\createchildprocess\bin\Release\net6.0\createchildprocess.exe
+C:\Users\user\source\repos\createchildprocess\createchildprocess\bin\Release\net6.0\createchildprocess.deps.json
+C:\Users\user\source\repos\createchildprocess\createchildprocess\bin\Release\net6.0\createchildprocess.runtimeconfig.json
+C:\Users\user\source\repos\createchildprocess\createchildprocess\bin\Release\net6.0\createchildprocess.dll
+C:\Users\user\source\repos\createchildprocess\createchildprocess\bin\Release\net6.0\createchildprocess.pdb
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\createchildprocess.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\createchildprocess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\createchildprocess.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\createchildprocess.AssemblyInfo.cs
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\createchildprocess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\createchildprocess.dll
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\refint\createchildprocess.dll
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\createchildprocess.pdb
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\createchildprocess.genruntimeconfig.cache
+C:\Users\user\source\repos\createchildprocess\createchildprocess\obj\Release\net6.0\ref\createchildprocess.dll
